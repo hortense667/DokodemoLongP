@@ -17,7 +17,7 @@ You can select past prompts from a dropdown list, sorted from the most recently 
 ## How to Use
 
 1. **Run DokodemoLongP.exe**  
-Download DokodemoLongP.exe from GitHub (https://github.com/hortense667/DokodemoLongP) into an appropriate folder. Running it will display an icon in your tray.
+Download DokodemoLongP.exe from GitHub (https://github.com/hortense667/DokodemoLongP) into an appropriate folder. Running it will display an "H" icon in your tray.
 
 2. **Enter a prompt**  
 Press `Win-Ctrl-p` to open the DokodemoLongP window. Initially, enter your prompt in the editor section labeled "Enter or edit your prompt (supports multiple lines):" and click the "OK" button.
@@ -45,7 +45,7 @@ ChatGPTやClaudeやPerplexityやGeminiやCURSORなどでプロンプトを入力
 ## 使いかた
 
 1. **DokodemoLongP.exeの実行**  
-GitHub（https://github.com/hortense667/DokodemoLongP）にアップロードされているDokodemoLongP.exeを適切なフォルダにダウンロード。実行するとトレイにアイコンが現れます。
+GitHub（https://github.com/hortense667/DokodemoLongP）にアップロードされているDokodemoLongP.exeを適切なフォルダにダウンロード。実行するとトレイに「H」のアイコンが現れます。
 
 2. **プロンプトの入力**
 `Win-Ctrl-p`を押すとDokodemoLongPのウィンドウが現れます。最初は「Enter or edit your prompt (supports multiple lines):」とあるエディタ部分に、プロンプトを入力して「OK」ボタンを押してください。
