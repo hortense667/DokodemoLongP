@@ -3,6 +3,12 @@
 ;
 ;  (c) 2025 Satoshi Endo (hortense)
 ;
+; プロンプト専用の履歴、呼び出し、再編集、入力ツールです。
+;
+; アイコンを変更
+iconPath := A_ScriptDir "\DokodemoLongP.ico"
+TraySetIcon(iconPath)
+
 ; プロンプトの履歴についての処理（改行対応版）
 ; 履歴ファイル（プレーンテキストで作られる）のパス設定
 global HistoryFile := A_ScriptDir . "\prompt_history.txt"
